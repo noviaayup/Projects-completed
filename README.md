@@ -1,1 +1,1 @@
-# This repository contains all the completed projects
+# This repository contains completed projects
