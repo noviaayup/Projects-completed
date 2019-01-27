@@ -1,4 +1,4 @@
-## This repository contains completed Data Analysis and Machine Learning projects
+### This repository contains completed Data Analysis and Machine Learning projects
 ### Credit Card Fraud Dection:
 Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
 
