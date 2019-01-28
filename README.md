@@ -10,3 +10,5 @@ Algorithms used: Random Forest, Multiple Linear Regression
 
 Code:
 https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing/Melbourne%20Housing.ipynb
+
+PowerPoint: 
