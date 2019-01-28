@@ -7,8 +7,8 @@ https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud
 ### Melbourne Housing Prices
 Algorithms used: Random Forest, Multiple Linear Regression
 
-Code:
+- Code:
 https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.ipynb
 
-PowerPoint: 
+- PowerPoint: 
 https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.pptx
