@@ -6,7 +6,7 @@ This repository contains completed Data Analysis and Machine Learning projects
 ### Melbourne Housing Prices (Capstone Project)
 - Algorithms used: Random Forest, Multiple Linear Regression
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.ipynb
-- PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.pptx
+- PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.pdf
 
 ### UNHCR World Refugee Population Analysis (Capstone Project)
 - Indepth Data Analysis
