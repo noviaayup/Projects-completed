@@ -12,7 +12,7 @@ This repository contains completed Data Analysis and Machine Learning projects
 - Indepth Data Analysis
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/UN%20World%20Refugee%20Population.ipynb
 
-### U.S. Presidents State of the Union Addresses, 1945-2019 (Capstone Project)
+### U.S. Presidents State of the Union Address, 1945-2019 (Capstone Project)
 - Natural Language Processing: Approaches include Bag of Words, PCA, K Means Clustering
 - Tf-idf scores and Word2Vec, an indepth analysis of Democratic and Republican speeches.
 - Code:https://github.com/usman7vt/Projects-completed/blob/master/Capstone_ML%20Unsupervised_State%20of%20the%20Union.ipynb 
