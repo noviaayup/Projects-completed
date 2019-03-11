@@ -21,3 +21,8 @@ This repository contains completed Data Analysis and Machine Learning projects
 - Help Musclehub, a fancy gym, analyze the results of their A/B test.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
 - PowerPoint:https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.pdf
+
+### Melbourne Home Prices (Data Analysis using Seaborn and Matplotlib)
+- Gauging impact of distance, landsize and year built on overall property prices in Melbourne Australia
+- Matplotlib, Seaborn
+- Code: 
