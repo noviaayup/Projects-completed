@@ -20,4 +20,4 @@ This repository contains completed Data Analysis and Machine Learning projects
 ### Musclehub A/B Test 
 - Help Musclehub, a fancy gym, analyze the results of their A/B test.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
-- PowerPoint:
+- PowerPoint:https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.pdf
