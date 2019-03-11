@@ -16,3 +16,8 @@ This repository contains completed Data Analysis and Machine Learning projects
 ### UNHCR World Refugee Population Analysis (Data Analysis, Capstone Project)
 - In depth analysis of  how conflicts in Afghanistan and Syria have affected the World Refugee Population.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Project%20UNHCR.ipynb
+
+### Musclehub A/B Test 
+- Help Musclehub, a fancy gym, analyze the results of their A/B test.
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
+- PowerPoint:
