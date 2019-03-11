@@ -9,8 +9,8 @@ This repository contains completed Data Analysis and Machine Learning projects
 - PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.pdf
 
 ### UNHCR World Refugee Population Analysis (Thinkful, Capstone Project)
-- Indepth Data Analysis
-- Code: https://github.com/usman7vt/Projects-completed/blob/master/UN%20World%20Refugee%20Population.ipynb
+- In depth analysis of  how conflicts in Afghanistan and Syria have affected the World Refugee Population.
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/Project%20UNHCR.ipynb
 
 ### U.S. Presidents State of the Union Address, 1945-2019 (Thinkful, Capstone Project)
 - Indepth NLP analysis using Bag of Words, Tf-idf, Word Tokenization and Word2Vec approaches.
