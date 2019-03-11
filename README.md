@@ -13,6 +13,10 @@ This repository contains completed Data Analysis and Machine Learning projects
 - Principle Component Analysis (PCA), K Means Clustering, Silhoute Coefficent, Singular Value Decomposition (SVD)
 - Code:https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb 
 
+### Melbourne Home Prices (Data Analysis, Seaborn, Matplotlib, T-tests)
+- Gauging impact of distance, landsize and year built on home prices in Melbourne Australia
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Home%20Prices.ipynb
+
 ### UNHCR World Refugee Population Analysis (Data Analysis, Capstone Project)
 - In depth analysis of  how conflicts in Afghanistan and Syria have affected the World Refugee Population.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Project%20UNHCR.ipynb
@@ -22,7 +26,4 @@ This repository contains completed Data Analysis and Machine Learning projects
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
 - PowerPoint:https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.pdf
 
-### Melbourne Home Prices (Data Analysis using Seaborn and Matplotlib)
-- Gauging impact of distance, landsize and year built on overall property prices in Melbourne Australia
-- Matplotlib, Seaborn
-- Code: 
+
