@@ -22,6 +22,6 @@ This repository contains completed projects in Data Analysis and Machine Learnin
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Home%20Prices.ipynb
 
 #### Musclehub A/B Test 
-- Help Musclehub, a fancy gym, analyze the results of their A/B test.
+- Help Musclehub, a fancy gym analyze the results of their A/B test.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
 - PowerPoint:https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.pdf
