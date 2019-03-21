@@ -1,4 +1,5 @@
 This repository contains completed projects in Data Analysis and Machine Learning.
+
 #### Credit Card Fraud Detection 
 - Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud.ipynb
@@ -16,6 +17,10 @@ This repository contains completed projects in Data Analysis and Machine Learnin
 #### UNHCR World Refugee Population, 2000 - 2016 (Data Analysis, Capstone Project)
 - In depth analysis of  how conflicts in Afghanistan and Syria have affected the World Refugee Population.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Project%20UNHCR.ipynb
+
+#### Dogs vs. Cats Image Recognition
+- Algorithms uses: Random Forest, Gradient Boosting, Convolutional Neural Networks (CNN)
+- 
 
 #### Melbourne Home Prices (Data Analysis with Seaborn, Matplotlib)
 - Gauging impact of distance, landsize and year built on home prices in Melbourne Australia using T-Tests.
