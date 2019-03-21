@@ -1,6 +1,6 @@
 This repository contains completed projects in Data Analysis and Machine Learning.
 
-#### Credit Card Fraud Detection 
+##### Credit Card Fraud Detection 
 - Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud.ipynb
 
