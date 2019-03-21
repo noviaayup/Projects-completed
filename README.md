@@ -20,7 +20,7 @@ This repository contains completed projects in Data Analysis and Machine Learnin
 
 #### Dogs vs. Cats Image Recognition
 - Algorithms uses: Random Forest, Gradient Boosting, Convolutional Neural Networks (CNN)
-- 
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/Dogs%20Vs.%20Cats.ipynb
 
 #### Melbourne Home Prices (Data Analysis with Seaborn, Matplotlib)
 - Gauging impact of distance, landsize and year built on home prices in Melbourne Australia using T-Tests.
