@@ -14,7 +14,7 @@ This repository contains completed projects in Data Science.
 #### U.S. Presidents State of the Union Addresses, 1945 - 2019 (Unsupervised Learning, Capstone Project)
 - Indepth NLP analysis of Republicn and Democratic speeches using Bag of Words, Tf-idf and Word2Vec.
 - Principle Component Analysis (PCA), K Means Clustering, Silhoute Coefficent, Singular Value Decomposition (SVD)
-- Code:https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb
 
 #### Dogs vs. Cats Image Recognition
 - Algorithms uses: Random Forest, Gradient Boosting, Convolutional Neural Networks (CNN)
