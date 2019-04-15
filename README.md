@@ -16,16 +16,17 @@ This repository contains completed projects in Data Science.
 - Principle Component Analysis (PCA), K Means Clustering, Silhoute Coefficent, Singular Value Decomposition (SVD)
 - Code:https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb
 
-#### Musclehub A/B Test 
-- Help Musclehub, a fancy gym analyze the results of their A/B test.
-- Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
-- PowerPoint:https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.pdf
-
 #### Dogs vs. Cats Image Recognition
 - Algorithms uses: Random Forest, Gradient Boosting, Convolutional Neural Networks (CNN)
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Dogs%20Vs.%20Cats.ipynb
 
+#### Musclehub A/B Test 
+- Helping Musclehub, a fancy gym analyzing results of their A/B test.
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.ipynb
+- PowerPoint:https://github.com/usman7vt/Projects-completed/blob/master/MuscleHub%20A.B%20Testing.pdf
+
 #### Credit Card Fraud Detection 
+- Detecting transacations which could be possibly fradulent versus ones which are not.
 - Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud.ipynb
 
