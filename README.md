@@ -1,18 +1,18 @@
-This repository contains completed projects in Data Analysis and Machine Learning.
+This repository contains completed projects in Data Science.
 
 #### Image Recognition (Neural Networks, Capstone Project)
-- Image Classification comparsion using traditional and contemporary Machine Learning models.
+- CIFAR-10 Dataset Image Classification comparsion, traditional Vs. contemporary Machine Learning models.
 - Algorithms used: Random Forest, Logistic Regression, Gradient Boost, Convolutional Neural Networks (CNN)
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Final%20Capstone%20Project.ipynb
-- PowerPoint: 
+- PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/Final%20Capstone%20Presentation.pdf
 
-#### Melbourne Housing Prices (Supervised Learning, Capstone Project)
+#### Predicting Melbourne Housing Prices (Supervised Learning, Capstone Project)
 - Algorithms used: Random Forest, Multiple Linear Regression
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.ipynb
 - PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Housing.pdf
 
-#### U.S. Presidents State of the Union Address, 1945 - 2019 (Unsupervised Learning, Capstone Project)
-- Indepth NLP analysis of Republicn and Democratic speeches using Bag of Words, Tf-idf, Word Tokenization and Word2Vec.
+#### U.S. Presidents State of the Union Addresses, 1945 - 2019 (Unsupervised Learning, Capstone Project)
+- Indepth NLP analysis of Republicn and Democratic speeches using Bag of Words, Tf-idf and Word2Vec.
 - Principle Component Analysis (PCA), K Means Clustering, Silhoute Coefficent, Singular Value Decomposition (SVD)
 - Code:https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb
 
