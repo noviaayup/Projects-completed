@@ -2,12 +2,7 @@ This repository contains completed projects in Data Analysis and Machine Learnin
 
 #### Image Recognition (Neural Networks, Capstone Project)
 - Algorithms used: Convolutional Neural Networks, Random Forest, Logistic Regression, Gradient Boost
-- 
-
-
-#### Credit Card Fraud Detection 
-- Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
-- Code: https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud.ipynb
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/Final%20Capstone%20Project.ipynb
 
 #### Melbourne Housing Prices (Supervised Learning, Capstone Project)
 - Algorithms used: Random Forest, Multiple Linear Regression
@@ -17,7 +12,11 @@ This repository contains completed projects in Data Analysis and Machine Learnin
 #### U.S. Presidents State of the Union Address, 1945 - 2019 (Unsupervised Learning, Capstone Project)
 - Indepth NLP analysis using Bag of Words, Tf-idf, Word Tokenization and Word2Vec approaches.
 - Principle Component Analysis (PCA), K Means Clustering, Silhoute Coefficent, Singular Value Decomposition (SVD)
-- Code:https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb 
+- Code:https://github.com/usman7vt/Projects-completed/blob/master/State%20of%20the%20Union.ipynb
+
+#### Credit Card Fraud Detection 
+- Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
+- Code: https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud.ipynb
 
 #### UNHCR World Refugee Population, 2000 - 2016 (Data Analysis, Capstone Project)
 - In depth analysis of  how conflicts in Afghanistan and Syria have affected the World Refugee Population.
