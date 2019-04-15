@@ -1,6 +1,11 @@
 This repository contains completed projects in Data Analysis and Machine Learning.
 
-##### Credit Card Fraud Detection 
+#### Image Recognition (Neural Networks, Capstone Project)
+- Algorithms used: Convolutional Neural Networks, Random Forest, Logistic Regression, Gradient Boost
+- 
+
+
+#### Credit Card Fraud Detection 
 - Algorithms used: Multiple Layer Perceptron Classifier, Random Forest
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Credit%20Card%20Fraud.ipynb
 
