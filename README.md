@@ -34,7 +34,7 @@ This repository contains completed projects in Data Science.
 - In depth analysis of  how conflicts in Afghanistan and Syria have affected the World Refugee Population.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Project%20UNHCR.ipynb
 
-#### Melbourne Home Prices (Data Analysis with Seaborn, Matplotlib)
+#### Melbourne Home Prices (Data Analysis with Matplotlib and Seaborn)
 - Gauging impact of distance, landsize and year built on home prices in Melbourne Australia using T-Tests.
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Melbourne%20Home%20Prices.ipynb
 
