@@ -4,7 +4,7 @@ This repository contains completed projects in Data Science.
 - CIFAR-10 Dataset Image Classification, a comparsion between traditional and contemporary Machine Learning models.
 - Algorithms used: Random Forest, Logistic Regression, Gradient Boost, Convolutional Neural Networks (CNN)
 - Code: https://github.com/usman7vt/Projects-completed/blob/master/Final%20Capstone%20Project.ipynb
-- PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/Final%20Capstone%20Presentation.pdf
+- PowerPoint: https://github.com/usman7vt/Projects-completed/blob/master/FC%20Presentation.pdf
 
 #### Predicting Melbourne Housing Prices (Supervised Learning, Capstone Project)
 - Algorithms used: Random Forest, Multiple Linear Regression
