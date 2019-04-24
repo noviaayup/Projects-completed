@@ -1,4 +1,4 @@
-This repository contains completed projects in Data Science.
+This repository contains completed projects in Data Science and Machine Learning.
 
 #### Image Recognition (Neural Networks, Capstone Project)
 - CIFAR-10 Dataset Image Classification, a comparsion between traditional and contemporary Machine Learning models.
